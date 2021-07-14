@@ -1,0 +1,24 @@
+body {
+    background: gold
+}
+
+#keypressed {
+    background-color: rgb(243, 12, 39);
+    width: 320px;
+}
+
+#keycode {
+    background-color: #4d378a;
+    width: 320px;
+}
+
+#evekey {
+    background-color: #073a10;
+    width: 320px;
+    color: white;
+}
+
+.flex {
+    display: flex;
+    justify-content: space-evenly;
+}
