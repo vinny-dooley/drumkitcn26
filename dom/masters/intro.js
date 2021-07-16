@@ -1,6 +1,0 @@
-console.log("Hello World")
-console.log("hello".toLowerCase())
-console.log("hello".toUpperCase())
-console.log(Math.random())
-console.log(Math.random() * 10)
-console.log()
